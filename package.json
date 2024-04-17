@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+	  "build" : "like this",
     "test": "test"
   },
   "author": "klas",
